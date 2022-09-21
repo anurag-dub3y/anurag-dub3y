@@ -1,7 +1,7 @@
 <!-- Henlo Frens! -->
 
 
-<h1 align = "center"> Hey! This is Anurag</h1> 
+<h1 align = "center"> Hey! This is Anurag.</h1> 
 <h3 align="center"> I do Competitive Coding and Web Development </h3>
 <h3 align="center">Languages and tools I use:</h3>
 
